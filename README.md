@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 NEXUS AI — The Autonomous Marketing Operating System
+# 🌐 NEXUS — The Autonomous Marketing Operating System
 
 [![Live Demo](https://img.shields.io/badge/LIVE_PRODUCTION-digitalmarketagency.vercel.app-FF7A00?style=for-the-badge&logo=vercel&logoColor=white)](https://digitalmarketagency.vercel.app)
 [![React 19](https://img.shields.io/badge/React-19.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
@@ -12,34 +12,8 @@
 
 ### 🚀 **Live Production Link:** **[https://digitalmarketagency.vercel.app](https://digitalmarketagency.vercel.app)**
 
-*An autonomous AI agency orchestration engine running strategy, copywriting, programmatic SEO, dynamic ads, cross-channel social distribution, and multi-touch revenue attribution — powered by a single neural core.*
+*An autonomous agency orchestration engine running strategy, copywriting, programmatic SEO, dynamic ads, cross-channel social distribution, and multi-touch revenue attribution — powered by a single neural core.*
 
-</div>
-
----
-
-## ⚡ Preview & Visual Showcase
-
-<div align="center">
-  <h3>🖥️ Autonomous Agency Command Center (Desktop)</h3>
-  <img src="public/screenshots/dashboard-desktop.png" alt="Nexus AI Dashboard Desktop" width="850px" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" />
-</div>
-
-<br/>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <div>
-    <h4>📟 Cyber OS Boot Sequence (Mobile)</h4>
-    <img src="public/screenshots/os-boot-screen.png" alt="Nexus OS Boot Screen" width="340px" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(255,122,0,0.3);" />
-  </div>
-  <div>
-    <h4>📱 Responsive Control Center (Mobile)</h4>
-    <img src="public/screenshots/dashboard-mobile.png" alt="Nexus AI Mobile Dashboard" width="340px" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" />
-  </div>
-  <div>
-    <h4>✨ Cyberpunk Landing Experience</h4>
-    <img src="public/screenshots/landing-mobile.png" alt="Nexus AI Mobile Landing" width="340px" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.6);" />
-  </div>
 </div>
 
 ---
@@ -137,5 +111,5 @@ npm run preview
 ---
 
 <div align="center">
-  <sub>Built with precision for autonomous AI operations. © 2026 Nexus AI. All rights reserved.</sub>
+  <sub>Built with precision for autonomous operations. © 2026 Nexus. All rights reserved.</sub>
 </div>
